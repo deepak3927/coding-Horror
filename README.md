@@ -1,0 +1,2 @@
+# coding-Horror
+AllAreAllowed
